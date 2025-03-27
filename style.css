@@ -1,0 +1,132 @@
+/* Style untuk navigasi */
+.navbar {
+    background-color: #2e8b57;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.navbar ul li a:hover {
+    color: #fff0f5;
+}
+
+/* Style untuk body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+/* Style untuk centering konten */
+.center {
+    text-align: center;
+}
+
+/* Style untuk h1 dan h2 */
+h1 {
+    color: #2e8b57;
+    font-size: 36px;
+}
+
+h2 {
+    color: #4682b4;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+/* Style untuk gambar */
+img {
+    border-radius: 50%;
+    border: 3px solid #4682b4;
+}
+
+/* Style untuk link */
+a {
+    color: #4682b4;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #2e8b57;
+}
+
+/* Style untuk tabel */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #4682b4;
+    color: white;
+}
+
+td {
+    background-color: #f9f9f9;
+}
+
+/* Style untuk form */
+form {
+    margin-top: 20px;
+}
+
+input[type="text"], input[type="number"], input[type="email"] {
+    padding: 5px;
+    width: calc(100% - 10px);
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #2e8b57;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4682b4;
+}
+
+/* Style untuk daftar (ol, ul) */
+ol {
+    margin-left: 20px;
+}
+
+ul {
+    margin-left: 40px;
+}
+
+li {
+    margin-bottom: 5px;
+}
