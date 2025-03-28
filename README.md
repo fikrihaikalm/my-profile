@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Website portofolio ini dibuat menggunakan HTML, CSS, dan JavaScript. Website ini dirancang untuk menampilkan informasi tentang diri saya, pengalaman, keterampilan, dan kontak sosial dalam bentuk yang interaktif dan menarik.
+Website portofolio ini dibuat menggunakan HTML, CSS, dan JavaScript. Website ini dirancang untuk menampilkan informasi tentang diri saya, pengalaman, skills, dan contacts dalam bentuk yang interaktif dan menarik.
 
 ## Fitur Utama
 
